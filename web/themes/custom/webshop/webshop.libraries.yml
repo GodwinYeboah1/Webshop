@@ -1,0 +1,10 @@
+webshop-style:
+  css:
+    theme:
+      assets/parallax/css/materialize.css: {}
+      assets/parallax/css/style.css: {}
+
+  js:
+    assets/parallax/js/materialize.js: {}
+  dependencies:
+    - core/jquery

@@ -1,0 +1,6 @@
+name: Webshop 
+description: Custom Webshop theme(Our cool theme)
+core: 8.x
+type: theme
+libraries:
+  - webshop/webshop-style
